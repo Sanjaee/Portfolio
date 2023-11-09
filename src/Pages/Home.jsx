@@ -5,7 +5,7 @@ import Header from "../Componenst/header/Header";
 import Loader from "../Componenst/loaderHome/LoaderHome";
 import Navbar from "../Componenst/navbar/Navbar";
 import Services from "../Componenst/service/Service";
-import Work from "../Componenst/work/wORK.JSX";
+import Work from "../Componenst/work/Worker.jsx";
 
 export const Home = () => {
   return (
