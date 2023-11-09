@@ -5,6 +5,6 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   build: {
-    outDir: "src", // Ganti 'dist' dengan nama direktori yang Anda inginkan
+    outDir: "dist", // Ganti 'dist' dengan nama direktori yang Anda inginkan
   },
 });
